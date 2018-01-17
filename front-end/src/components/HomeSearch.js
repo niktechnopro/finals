@@ -58,9 +58,9 @@ class Search extends React.Component {
       // console.log("our message", msg)
     }  
    return (
-      <div className="container center search-container col s12">
+      <div className="container center search-container col s12 slide">
         
-        <h3 className="message center">
+        <h3 className="message center slide">
           Let's find you a doctor!
           </h3>
           <form className="search-box z-depth-5 row center" onSubmit={this.handleSubmit}>

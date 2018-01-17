@@ -217,7 +217,7 @@ input:-webkit-autofill:active {
   border-radius: 20px;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 0;
+  margin-top: -5%;
   padding-bottom: 1%;
   height: 100%;
   width: 50%; }
@@ -231,7 +231,7 @@ input:-webkit-autofill:active {
   border-radius: 10px;
   margin-right: auto;
   margin-left: auto;
-  margin-top: 10%;
+  /*margin-top: 10%;*/
   padding: 2%;
   padding-bottom: 1%;
   height: 100%;
